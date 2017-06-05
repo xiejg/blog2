@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"requester",
+				"requester_stay"
+			],
+			[
+				"to",
+				"top_hashtags"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 253.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Preferences: Terminal Settings – Default"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jianguoxie/Documents/GitHub/blog"
+	],
+	"file_history":
+	[
+		"/Users/jianguoxie/Documents/GitHub/blog/blog/settings.py",
+		"/Users/jianguoxie/.:bash_profile",
+		"/Users/jianguoxie/Documents/workspace/work2/python/static.py",
+		"/Users/jianguoxie/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/jianguoxie/Documents/workspace/work2/static_zipfr",
+		"/Users/jianguoxie/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/jianguoxie/data.py",
+		"/Users/jianguoxie/Documents/workspace/work2/dynamic/python/dynamic.py",
+		"/Users/jianguoxie/eps.py",
+		"/Users/jianguoxie/Documents/workspace/work2/static_cache_size",
+		"/Users/jianguoxie/Documents/workspace/work2/static_library_size",
+		"/Users/jianguoxie/Documents/workspace/work2/static_requester",
+		"/Users/jianguoxie/Documents/workspace/work2/static_cache",
+		"/Users/jianguoxie/Documents/workspace/work2/static_zipfc",
+		"/Users/jianguoxie/Documents/workspace/work2/static_C",
+		"/Users/jianguoxie/Documents/workspace/work2/static_liabrary_size",
+		"/Users/jianguoxie/Desktop/papers/work2/Reference/Code/Lagrange/ExtSetCover_Lagrange.m",
+		"/Users/jianguoxie/Downloads/assignment3.c",
+		"/Users/jianguoxie/Downloads/Assignment1.py",
+		"/Users/jianguoxie/draw.py",
+		"/Users/jianguoxie/cs1023/p4.c",
+		"/Users/jianguoxie/cs1023/p3.c",
+		"/Users/jianguoxie/cs1023/p2.c",
+		"/Users/jianguoxie/cs1023/p1.c",
+		"/Users/jianguoxie/cs1023/p1_2.c",
+		"/Users/jianguoxie/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/jianguoxie/analy.py",
+		"/Users/jianguoxie/Documents/workspace/Simulation/mobile_request",
+		"/Users/jianguoxie/static.py",
+		"/Users/jianguoxie/Documents/workspace/Simulation/density_r",
+		"/Users/jianguoxie/Documents/workspace/Simulation/density_c",
+		"/Users/jianguoxie/Documents/workspace/Simulation/arrive_request",
+		"/Users/jianguoxie/Documents/workspace/Simulation/request",
+		"/Users/jianguoxie/Documents/workspace/Simulation/density",
+		"/Users/jianguoxie/Documents/workspace/Simulation/mobile",
+		"/Users/jianguoxie/Documents/workspace/Simulation/arrive",
+		"/Users/jianguoxie/Desktop/CS6705/1.py",
+		"/Users/jianguoxie/Desktop/CS6705/jxie1PokerSquaresPlayer.java",
+		"/Users/jianguoxie/Desktop/CS6705/SobTe.java",
+		"/Users/jianguoxie/Desktop/papers/month1/review/report_template.tex"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 221.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
