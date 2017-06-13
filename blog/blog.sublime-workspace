@@ -95,11 +95,20 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jianguoxie/Documents/GitHub/blog"
+		"/Users/jianguoxie/Documents/GitHub/blog/blogpost",
+		"/Users/jianguoxie/Documents/GitHub/blog/templates"
 	],
 	"file_history":
 	[
+		"/Users/jianguoxie/Documents/GitHub/bloglearn/test.js",
+		"/Users/jianguoxie/Documents/GitHub/blog/blog/urls.py",
+		"/Users/jianguoxie/Documents/GitHub/blog/blogpost/models.py",
+		"/Users/jianguoxie/Documents/GitHub/blog/blogpost/views.py",
+		"/Users/jianguoxie/Documents/GitHub/blog/templates/blogpost_detail.html",
+		"/Users/jianguoxie/Documents/GitHub/blog/templates/index.html",
+		"/Users/jianguoxie/Documents/GitHub/blog/templates/base.html",
 		"/Users/jianguoxie/Documents/GitHub/blog/blog/settings.py",
+		"/Users/jianguoxie/Documents/GitHub/blog/blogpost/admin.py",
 		"/Users/jianguoxie/.:bash_profile",
 		"/Users/jianguoxie/Documents/workspace/work2/python/static.py",
 		"/Users/jianguoxie/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
@@ -260,7 +269,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 176.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

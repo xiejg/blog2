@@ -9,5 +9,6 @@ def index(request):
 	return render_to_response('index.html',{'posts':post})
 	#return HttpResponse(u"huangse wangzhan")
 def view_post(request,slug):
-	return render_to_response('blogpost_detail.html',{'posts': get_object_or_404(Blogpost,slug=slug)})
+	print "fuck"
+	return render_to_response('blogpost_detail.html',{'post': get_object_or_404(Blogpost,slug=slug)})
 # Create your views here.
